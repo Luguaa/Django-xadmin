@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79544575-8285-4765-b75d-1f4858900405" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MxOnline" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4tPAIk59TlSpSg742ugFgnPqM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\MxOnline\static" />
+      <recent name="C:\Users\Administrator\Desktop\MxOnline\apps\operation" />
+      <recent name="C:\Users\Administrator\Desktop\MxOnline\extra_apps" />
+      <recent name="C:\Users\Administrator\Desktop\MxOnline\apps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\MxOnline\templates" />
+      <recent name="C:\Users\Administrator\Desktop\MxOnline\static" />
+      <recent name="C:\Users\Administrator\Desktop\MxOnline" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MxOnline" type="Python.DjangoServer" factoryName="Django server">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MxOnline.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79544575-8285-4765-b75d-1f4858900405" name="Default Changelist" comment="" />
+      <created>1586006666779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586006666779</updated>
+      <workItem from="1586006673811" duration="38452000" />
+      <workItem from="1586186008690" duration="3618000" />
+      <workItem from="1586232292679" duration="15129000" />
+      <workItem from="1586319964078" duration="16802000" />
+      <workItem from="1586402794326" duration="16905000" />
+      <workItem from="1586437930498" duration="10726000" />
+      <workItem from="1586575752727" duration="57783000" />
+      <workItem from="1586838815344" duration="10791000" />
+      <workItem from="1586920392534" duration="16924000" />
+      <workItem from="1587014686260" duration="14011000" />
+      <workItem from="1587044507491" duration="4791000" />
+      <workItem from="1587101617770" duration="12311000" />
+      <workItem from="1587278351374" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="426" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1586677284182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="426" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586677284182" />
+    <state x="735" y="261" key="FileChooserDialogImpl" timestamp="1586154968373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586154968373" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1586677438081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438081" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1586677438080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1586677438080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1586677438081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586677438081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586677438081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586677438081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438081" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586677438081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586677438081" />
+    <state x="173" y="123" key="SettingsEditor" timestamp="1586423145468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="173" y="123" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586423145468" />
+    <state x="327" y="130" width="672" height="678" key="search.everywhere.popup" timestamp="1587028929403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="327" y="130" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587028929403" />
+  </component>
+</project>
